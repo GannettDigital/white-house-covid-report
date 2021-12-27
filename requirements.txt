@@ -1,0 +1,5 @@
+openpyxl
+requests
+pyquery
+simplejson
+tqdm
